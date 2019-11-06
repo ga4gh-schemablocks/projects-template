@@ -1,2 +1,3 @@
-# sb-template
-SchemaBlocks Projects and Schema Template
+# SchemaBlocks projects-template
+
+This is the template repository for SchemaBlocks projects, also including the schema files for the {S}[B] 'blocks" format.
